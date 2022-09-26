@@ -1,4 +1,18 @@
 .title{
     text-align: center;
     font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkseagreen;
 }
+* {
+    margin:0;
+    padding:0;
+ }
+ header{
+    border: 4px solid black;
+    background-color: brown;
+    display: flex;
+ }
+ body{
+    background-color: darkseagreen;
+ }
